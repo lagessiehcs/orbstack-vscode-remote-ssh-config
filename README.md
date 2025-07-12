@@ -123,7 +123,7 @@ Then your `~/.ssh/config` should contain:
 ```ssh
 Include ~/.orbstack/ssh/config
 
-Host vm2-custom
+Host somerandomname
   Hostname 127.0.0.1
   Port 32222
   User vm2
