@@ -15,6 +15,7 @@ This guide explains how to configure the **SSH Config File** in **Visual Studio 
 
 
 3. Click the gear icon and then choose `/Users/<user-name>/.ssh/config` to open the **SSH Config File** (`~/.ssh/config`).
+   
    <img width="461" height="127" alt="List" src="https://github.com/user-attachments/assets/a8d4e8b3-413c-4e6f-8625-1fa5ac7c9ef2" />
 
 
